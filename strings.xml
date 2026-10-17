@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GestureX AI</string>
+    <string name="accessibility_description">Permite que GestureX AI ejecute acciones globales (inicio, captura de pantalla) cuando tú lo configuras en una regla. No lee el contenido de la pantalla.</string>
+</resources>
